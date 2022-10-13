@@ -1,0 +1,10 @@
+@startuml
+
+:Admin: -> (Criar documento)
+:Admin: -> (Atualizar documento)
+:Admin: -> (Excluir excluir)
+:Admin: -> (Consultar um documento)
+:Admin: -> (Consultar documentos)
+:Admin: -> (Bloquear documento)
+
+@enduml

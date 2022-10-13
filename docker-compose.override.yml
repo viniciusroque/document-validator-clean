@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  api-dv-python:
+    volumes:
+      - ./.docker/api-dv-python/history:/home/python/history:delegated
